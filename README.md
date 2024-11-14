@@ -32,4 +32,7 @@ Collection of web-based tools for Flipper Zero, available at [FlipperTools.net](
 - **Original Repo:** [Spooks4576/ghost_esp_app](https://github.com/Spooks4576/ghost_esp_app)
 - **Fork Repo:** [jaylikesbunda/ghost_esp_app](https://github.com/jaylikesbunda/ghost_esp_app)
 
+### Flipper Scripts
+- **Repo:** [Flipper Scripts](https://github.com/jaylikesbunda/Flipper-Scripts)
+
 Not affiliated with Flipper Devices Inc.
