@@ -1,4 +1,5 @@
 # Flipper Zero Tools
+Not affiliated with Flipper Devices Inc.
 
 ## Web Tools
 Collection of web-based tools for Flipper Zero, available at [FlipperTools.net](https://flippertools.net)
@@ -35,4 +36,4 @@ Collection of web-based tools for Flipper Zero, available at [FlipperTools.net](
 ### Flipper Scripts
 - **Repo:** [Flipper Scripts](https://github.com/jaylikesbunda/Flipper-Scripts)
 
-Not affiliated with Flipper Devices Inc.
+
