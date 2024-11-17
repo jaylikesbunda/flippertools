@@ -4,6 +4,9 @@ Not affiliated with Flipper Devices Inc.
 ## Web Tools
 Collection of web-based tools for Flipper Zero, available at [FlipperTools.net](https://flippertools.net)
 
+### IR Library
+- **Repo:** [Flipper-IR-Library](https://github.com/jaylikesbunda/Flipper-IR-Library)
+
 ### IRDB Formatter
 - **Web:** [format.flippertools.net](https://format.flippertools.net)
 - **Repo:** [Flipper-IR-Formatter](https://github.com/jaylikesbunda/Flipper-IR-Formatter)
