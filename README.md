@@ -5,38 +5,32 @@ Not affiliated with Flipper Devices Inc.
 Collection of web-based tools for Flipper Zero, available at [FlipperTools.net](https://flippertools.net)
 
 ### IR Library
-- **Repo:** [Flipper-IR-Library](https://github.com/jaylikesbunda/Flipper-IR-Library)
+- **Repo:** [Flipper-IR-Library](https://github.com/jaylikesbunda/Flipper-IR-Library) ![Stars](https://img.shields.io/github/stars/jaylikesbunda/Flipper-IR-Library?style=flat-square)
 
 ### IRDB Formatter
 - **Web:** [format.flippertools.net](https://format.flippertools.net)
-- **Repo:** [Flipper-IR-Formatter](https://github.com/jaylikesbunda/Flipper-IR-Formatter)
+- **Repo:** [Flipper-IR-Formatter](https://github.com/jaylikesbunda/Flipper-IR-Formatter) ![Stars](https://img.shields.io/github/stars/jaylikesbunda/Flipper-IR-Formatter?style=flat-square)
 
 ### IRDB Search
 - **Web:** [search.flippertools.net](https://search.flippertools.net)
-- **Repo:** [Flipper-IRDB-Search](https://github.com/jaylikesbunda/Flipper-IRDB-Search)
+- **Repo:** [Flipper-IRDB-Search](https://github.com/jaylikesbunda/Flipper-IRDB-Search) ![Stars](https://img.shields.io/github/stars/jaylikesbunda/Flipper-IRDB-Search?style=flat-square)
 
 ### NFC Maker
 - **Web:** [nfc.flippertools.net](https://nfc.flippertools.net)
-- **Repo:** [Flipper-NFC-Maker](https://github.com/jaylikesbunda/Flipper-NFC-Maker)
+- **Repo:** [Flipper-NFC-Maker](https://github.com/jaylikesbunda/Flipper-NFC-Maker) ![Stars](https://img.shields.io/github/stars/jaylikesbunda/Flipper-NFC-Maker?style=flat-square)
 
 ### Universal IR Appender
 - **Web:** [jaylikesbunda.github.io/F0-Universal-IR-Appender](https://jaylikesbunda.github.io/F0-Universal-IR-Appender/)
-- **Repo:** [F0-Universal-IR-Appender](https://github.com/jaylikesbunda/F0-Universal-IR-Appender)
+- **Repo:** [F0-Universal-IR-Appender](https://github.com/jaylikesbunda/F0-Universal-IR-Appender) ![Stars](https://img.shields.io/github/stars/jaylikesbunda/F0-Universal-IR-Appender?style=flat-square)
 
 ### BadUSB Maker
 - **Web:** [jaylikesbunda.github.io/BadUSB-Maker](https://jaylikesbunda.github.io/BadUSB-Maker/)
-- **Repo:** [BadUSB-Maker](https://github.com/jaylikesbunda/BadUSB-Maker)
-
-### WebSerial File Transfer
-- **Web:** [jaylikesbunda.github.io/F0-WebSerial-File-Transfer](https://jaylikesbunda.github.io/F0-WebSerial-File-Transfer/)
-- **Repo:** [F0-WebSerial-File-Transfer](https://github.com/jaylikesbunda/F0-WebSerial-File-Transfer)
+- **Repo:** [BadUSB-Maker](https://github.com/jaylikesbunda/BadUSB-Maker) ![Stars](https://img.shields.io/github/stars/jaylikesbunda/BadUSB-Maker?style=flat-square)
 
 ## Other
 ### Ghost ESP App
-- **Original Repo:** [Spooks4576/ghost_esp_app](https://github.com/Spooks4576/ghost_esp_app)
-- **Fork Repo:** [jaylikesbunda/ghost_esp_app](https://github.com/jaylikesbunda/ghost_esp_app)
+- **Original Repo:** [Spooks4576/ghost_esp_app](https://github.com/Spooks4576/ghost_esp_app) ![Stars](https://img.shields.io/github/stars/Spooks4576/ghost_esp_app?style=flat-square)
+- **Fork Repo:** [jaylikesbunda/ghost_esp_app](https://github.com/jaylikesbunda/ghost_esp_app) ![Stars](https://img.shields.io/github/stars/jaylikesbunda/ghost_esp_app?style=flat-square)
 
 ### Flipper Scripts
-- **Repo:** [Flipper Scripts](https://github.com/jaylikesbunda/Flipper-Scripts)
-
-
+- **Repo:** [Flipper Scripts](https://github.com/jaylikesbunda/Flipper-Scripts) ![Stars](https://img.shields.io/github/stars/jaylikesbunda/Flipper-Scripts?style=flat-square)
