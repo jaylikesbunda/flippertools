@@ -29,8 +29,8 @@ Collection of web-based tools for Flipper Zero, available at [FlipperTools.net](
 
 ## Other
 ### Ghost ESP App
-- **Original Repo:** [Spooks4576/ghost_esp_app](https://github.com/Spooks4576/ghost_esp_app) ![Stars](https://img.shields.io/github/stars/Spooks4576/ghost_esp_app?style=flat-square)
-- **Fork Repo:** [jaylikesbunda/ghost_esp_app](https://github.com/jaylikesbunda/ghost_esp_app) ![Stars](https://img.shields.io/github/stars/jaylikesbunda/ghost_esp_app?style=flat-square)
+- **Original Repo:** [Spooks4576/ghost_esp_app](https://github.com/Spooks4576/ghost_esp_app) 
+- **Fork Repo:** [jaylikesbunda/ghost_esp_app](https://github.com/jaylikesbunda/ghost_esp_app) 
 
 ### Flipper Scripts
 - **Repo:** [Flipper Scripts](https://github.com/jaylikesbunda/Flipper-Scripts) ![Stars](https://img.shields.io/github/stars/jaylikesbunda/Flipper-Scripts?style=flat-square)
