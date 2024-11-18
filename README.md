@@ -4,14 +4,14 @@ Not affiliated with Flipper Devices Inc.
 ## Web Tools
 Collection of web-based tools for Flipper Zero, available at [FlipperTools.net](https://flippertools.net)
 
-### IR Library
+### IR Library (ALPHA) 
 - **Repo:** [Flipper-IR-Library](https://github.com/jaylikesbunda/Flipper-IR-Library) ![Stars](https://img.shields.io/github/stars/jaylikesbunda/Flipper-IR-Library?style=flat-square)
 
 ### IRDB Formatter
 - **Web:** [format.flippertools.net](https://format.flippertools.net)
 - **Repo:** [Flipper-IR-Formatter](https://github.com/jaylikesbunda/Flipper-IR-Formatter) ![Stars](https://img.shields.io/github/stars/jaylikesbunda/Flipper-IR-Formatter?style=flat-square)
 
-### IRDB Search
+### IRDB Search and Request
 - **Web:** [search.flippertools.net](https://search.flippertools.net)
 - **Repo:** [Flipper-IRDB-Search](https://github.com/jaylikesbunda/Flipper-IRDB-Search) ![Stars](https://img.shields.io/github/stars/jaylikesbunda/Flipper-IRDB-Search?style=flat-square)
 
