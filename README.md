@@ -7,6 +7,9 @@ Collection of web-based tools for Flipper Zero, available at [FlipperTools.net](
 ### IR Library (ALPHA) 
 - **Repo:** [Flipper-IR-Library](https://github.com/jaylikesbunda/Flipper-IR-Library) ![Stars](https://img.shields.io/github/stars/jaylikesbunda/Flipper-IR-Library?style=flat-square)
 
+### Asset Pack Maker (ALPHA) 
+- **Web:** [https://jaylikesbunda.github.io/F0-AssetPack-Maker](https://jaylikesbunda.github.io/F0-AssetPack-Maker/)
+
 ### IRDB Formatter
 - **Web:** [format.flippertools.net](https://format.flippertools.net)
 - **Repo:** [Flipper-IR-Formatter](https://github.com/jaylikesbunda/Flipper-IR-Formatter) ![Stars](https://img.shields.io/github/stars/jaylikesbunda/Flipper-IR-Formatter?style=flat-square)
